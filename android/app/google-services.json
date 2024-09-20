@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545430428357",
+    "project_id": "flutter-firebase-app-5cf95",
+    "storage_bucket": "flutter-firebase-app-5cf95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545430428357:android:0b381e5e52fc1a5231eeac",
+        "android_client_info": {
+          "package_name": "net.sahiba.firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdbmjhIGYms0d8zu_aemEX5YQ2deitIOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
